@@ -3,8 +3,13 @@
 !Output/
 !README.md
 !.gitignore
+
+# Stata temporary files
 *.log
 *.smcl
 *.stswp
+~*.do.stswp
 ~*.stswp
+
+# System
 .DS_Store
