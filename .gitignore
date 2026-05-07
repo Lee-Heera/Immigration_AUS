@@ -1,0 +1,10 @@
+/*
+!Dofile/
+!Output/
+!README.md
+!.gitignore
+*.log
+*.smcl
+*.stswp
+~*.stswp
+.DS_Store
